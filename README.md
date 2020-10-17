@@ -2,7 +2,7 @@
 
 MyFirstPR is literally a repo for first PRs for new coders in open source community
 
-## How to
+## How to Start
 
 Add your info in `src/components/contributors.json`
 
